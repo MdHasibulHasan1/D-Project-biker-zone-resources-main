@@ -4,3 +4,8 @@
 .hide{
     display: none;
 }
+
+.banner-img-1{
+    background-image: url("../image/carousel/3.jpg");
+    height: 100vh;
+}
